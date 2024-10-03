@@ -1,0 +1,52 @@
+antecedent,consequent,confidence
+frozenset({'Nacionality_1.0'}),frozenset({'International_0'}),1.0
+frozenset({'Age group_18-22'}),frozenset({'Marital status_1'}),0.9926367461430575
+frozenset({'Application order_1'}),frozenset({'Educational special needs_0'}),0.9904896090172596
+frozenset({'Scholarship holder_0'}),frozenset({'Educational special needs_0'}),0.9903876962512015
+frozenset({'Debtor_0'}),frozenset({'Educational special needs_0'}),0.9888888888888889
+frozenset({'Nacionality_1.0'}),frozenset({'Educational special needs_0'}),0.9886706948640483
+frozenset({'International_0'}),frozenset({'Educational special needs_0'}),0.9886279357231149
+frozenset({'Tuition fees up to date_1'}),frozenset({'Educational special needs_0'}),0.9879715691634773
+frozenset({'Displaced_1'}),frozenset({'Educational special needs_0'}),0.9876868953386104
+frozenset({'Previous qualification_1'}),frozenset({'Educational special needs_0'}),0.9876472278081011
+frozenset({'Marital status_1'}),frozenset({'Educational special needs_0'}),0.9874932028276238
+frozenset({'Gender_0.0'}),frozenset({'Educational special needs_0'}),0.9873228933631618
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Educational special needs_0'}),0.9872801082543978
+frozenset({'Age group_18-22'}),frozenset({'Educational special needs_0'}),0.9863253856942497
+frozenset({'Age group_18-22'}),frozenset({'Daytime/evening attendance_1'}),0.9859747545582047
+frozenset({'International_0'}),frozenset({'Nacionality_1.0'}),0.9819530284301607
+frozenset({'Debtor_0'}),frozenset({'International_0'}),0.9780487804878049
+frozenset({'Tuition fees up to date_1'}),frozenset({'International_0'}),0.9764898851831602
+frozenset({'Displaced_1'}),frozenset({'International_0'}),0.974934036939314
+frozenset({'Educational special needs_0'}),frozenset({'International_0'}),0.9737034331628927
+frozenset({'Age group_18-22'}),frozenset({'International_0'}),0.9733520336605891
+frozenset({'Application order_1'}),frozenset({'International_0'}),0.9721733004579077
+frozenset({'Marital status_1'}),frozenset({'International_0'}),0.9719956498096791
+frozenset({'Daytime/evening attendance_1'}),frozenset({'International_0'}),0.9718538565629229
+frozenset({'Scholarship holder_0'}),frozenset({'International_0'}),0.9711630887536046
+frozenset({'Previous qualification_1'}),frozenset({'International_0'}),0.9706980752657283
+frozenset({'Gender_0.0'}),frozenset({'International_0'}),0.9705443698732289
+frozenset({'Displaced_1'}),frozenset({'Marital status_1'}),0.9670184696569921
+frozenset({'Displaced_1'}),frozenset({'Daytime/evening attendance_1'}),0.9617414248021108
+frozenset({'Debtor_0'}),frozenset({'Nacionality_1.0'}),0.9604336043360434
+frozenset({'Tuition fees up to date_1'}),frozenset({'Nacionality_1.0'}),0.9589939857845817
+frozenset({'Displaced_1'}),frozenset({'Nacionality_1.0'}),0.9586631486367634
+frozenset({'Application order_1'}),frozenset({'Nacionality_1.0'}),0.9566748855230714
+frozenset({'Age group_18-22'}),frozenset({'Nacionality_1.0'}),0.9565217391304348
+frozenset({'Educational special needs_0'}),frozenset({'Nacionality_1.0'}),0.956172388604821
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Nacionality_1.0'}),0.9548037889039243
+frozenset({'Marital status_1'}),frozenset({'Nacionality_1.0'}),0.9543230016313213
+frozenset({'Gender_0.0'}),frozenset({'Nacionality_1.0'}),0.953392990305742
+frozenset({'Previous qualification_1'}),frozenset({'Nacionality_1.0'}),0.9528871014076414
+frozenset({'Scholarship holder_0'}),frozenset({'Nacionality_1.0'}),0.9522588913809676
+frozenset({'Tuition fees up to date_1'}),frozenset({'Debtor_0'}),0.9349371241115364
+frozenset({'Age group_18-22'}),frozenset({'Previous qualification_1'}),0.9337307152875175
+frozenset({'Marital status_1'}),frozenset({'Daytime/evening attendance_1'}),0.9303969548667754
+frozenset({'Debtor_0'}),frozenset({'Tuition fees up to date_1'}),0.926829268292683
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Marital status_1'}),0.9261163734776725
+frozenset({'Age group_18-22'}),frozenset({'Tuition fees up to date_1'}),0.9253155680224404
+frozenset({'Age group_18-22'}),frozenset({'Debtor_0'}),0.9165497896213184
+frozenset({'Previous qualification_1'}),frozenset({'Marital status_1'}),0.9141051422005171
+frozenset({'Previous qualification_1'}),frozenset({'Daytime/evening attendance_1'}),0.9109451307095662
+frozenset({'Gender_0.0'}),frozenset({'Tuition fees up to date_1'}),0.9060402684563759
+frozenset({'Previous qualification_1'}),frozenset({'Debtor_0'}),0.9026141913243321

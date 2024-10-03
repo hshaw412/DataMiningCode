@@ -27,25 +27,28 @@ data_categorical <- data[categorical_columns]
 data_categorical[] <- lapply(data_categorical, as.factor)
 
 # One-hot encode the data
-#data_one_hot <- as.data.frame(model.matrix(~ . - 1, data = data_categorical))
-
 dummy_model <- dummyVars(~ ., data = data_categorical)
 data_one_hot <- predict(dummy_model, newdata = data_categorical)
 data_one_hot <- as.data.frame(data_one_hot)
 
-# Apply the Apriori algorithm with a minimum support of 0.05 and maxlen of 3
-frequent_itemsets <- apriori(data_one_hot, parameter = list(support = 0.05, minlen=1, maxlen = 3, target="frequent itemsets"))
+# Apply the Apriori algorithm with a minimum support and max itemset length
+#frequent_itemsets <- apriori(data_one_hot, parameter = list(support = 0.01, minlen=1, maxlen = 2, target="frequent itemsets"))
 
-# Generate association rules with a minimum confidence of 0.7
-rules <- apriori(data_one_hot, parameter = list(support = 0.03, confidence = 0.7, minlen=1, maxlen = 3, target="rules"))
+# Timing
+start_time = Sys.time()
+
+# Generate association rules with a minimum confidence and max itemset length
+rules <- apriori(data_one_hot, parameter = list(support = 0.01, confidence = 0.9, minlen=1, maxlen = 2, target="rules"))
 rules <- rules[!is.redundant(rules)]
 rules <- subset(rules, size(lhs(rules)) > 0)
+
+print("Time taken: ", Sys.time() - start_time)
 
 # Sort rules by confidence
 sorted_rules <- sort(rules, by = "confidence", decreasing = TRUE)
 
 # Save sorted rules to a CSV file
-write(sorted_rules, file = "~/Desktop/UNI/Year 4/Tri 2/DataMining/DataMiningCode/Assignments/Project/Data/found_rules_5_70_3R.csv", sep = ",", quote = TRUE, row.names = FALSE)
+write(sorted_rules, file = "~/Desktop/UNI/Year 4/Tri 2/DataMining/DataMiningCode/Assignments/Project/Data/found_rules_1_90_2R.csv", sep = ",", quote = TRUE, row.names = FALSE)
 
 # View the rules
-inspect(head(sorted_rules))
+#inspect(head(sorted_rules))

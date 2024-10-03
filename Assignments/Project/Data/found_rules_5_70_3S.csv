@@ -1,0 +1,629 @@
+antecedent,consequent,confidence
+frozenset({'Course_9147'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Daytime/evening attendance_0'}),frozenset({'Educational special needs_0'}),1.0
+frozenset({'Course_9070'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Course_9085'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Course_9254'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Course_9254'}),frozenset({'Educational special needs_0'}),1.0
+frozenset({'Course_9500'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Course_9670'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Course_9773'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Course_9991'}),frozenset({'Daytime/evening attendance_0'}),1.0
+frozenset({'Course_9991'}),frozenset({'Educational special needs_0'}),1.0
+frozenset({'Course_9238'}),frozenset({'Daytime/evening attendance_1'}),1.0
+frozenset({'Nacionality_1.0'}),frozenset({'International_0'}),1.0
+frozenset({'Age group_28-35'}),frozenset({'Educational special needs_0'}),0.997539975399754
+frozenset({'Marital status_2'}),frozenset({'Educational special needs_0'}),0.9972067039106145
+frozenset({'Application mode_17'}),frozenset({'Previous qualification_1'}),0.9963325183374083
+frozenset({'Application mode_1'}),frozenset({'Previous qualification_1'}),0.9962453066332916
+"frozenset({""Mother's occupation_7""})",frozenset({'International_0'}),0.9961089494163424
+"frozenset({""Father's occupation_10""})",frozenset({'Educational special needs_0'}),0.996031746031746
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Educational special needs_0'}),0.9949201741654572
+frozenset({'Tuition fees up to date_0'}),frozenset({'Educational special needs_0'}),0.9939516129032258
+"frozenset({""Father's occupation_7""})",frozenset({'Educational special needs_0'}),0.9936507936507937
+frozenset({'Application mode_39'}),frozenset({'Educational special needs_0'}),0.9932795698924731
+frozenset({'Application mode_43'}),frozenset({'Educational special needs_0'}),0.9932432432432432
+frozenset({'Course_9500'}),frozenset({'Educational special needs_0'}),0.9930651872399445
+frozenset({'Application mode_17'}),frozenset({'Marital status_1'}),0.9926650366748166
+frozenset({'Age group_18-22'}),frozenset({'Marital status_1'}),0.9926367461430575
+"frozenset({""Mother's qualification_37""})",frozenset({'Educational special needs_0'}),0.9926160337552743
+"frozenset({""Mother's occupation_9""})",frozenset({'Educational special needs_0'}),0.9926124916051041
+"frozenset({""Father's qualification_3""})",frozenset({'Educational special needs_0'}),0.9924812030075187
+"frozenset({""Father's qualification_38""})",frozenset({'International_0'}),0.9923896499238964
+"frozenset({""Father's occupation_10""})",frozenset({'International_0'}),0.9920634920634921
+"frozenset({""Father's occupation_6""})",frozenset({'Educational special needs_0'}),0.9910714285714286
+frozenset({'Gender_1.0'}),frozenset({'Educational special needs_0'}),0.9909281228192603
+frozenset({'Application order_1'}),frozenset({'Educational special needs_0'}),0.9904896090172596
+frozenset({'Course_9070'}),frozenset({'International_0'}),0.9904761904761905
+frozenset({'Scholarship holder_0'}),frozenset({'Educational special needs_0'}),0.9903876962512015
+frozenset({'Course_9085'}),frozenset({'Educational special needs_0'}),0.9903225806451613
+"frozenset({""Mother's qualification_19""})",frozenset({'Educational special needs_0'}),0.9900771775082691
+frozenset({'Displaced_0'}),frozenset({'Educational special needs_0'}),0.9898936170212767
+frozenset({'Target_Dropout'}),frozenset({'Educational special needs_0'}),0.9895131086142323
+"frozenset({""Father's occupation_8""})",frozenset({'Educational special needs_0'}),0.9895104895104895
+frozenset({'Target_Graduate'}),frozenset({'Educational special needs_0'}),0.989387361312108
+frozenset({'Daytime/evening attendance_0'}),frozenset({'International_0'}),0.9891067538126361
+"frozenset({""Father's qualification_19""})",frozenset({'Educational special needs_0'}),0.9890590809628009
+frozenset({'Course_9500'}),frozenset({'International_0'}),0.9889042995839112
+frozenset({'Debtor_0'}),frozenset({'Educational special needs_0'}),0.9888888888888889
+frozenset({'Course_9147'}),frozenset({'Educational special needs_0'}),0.9887323943661972
+frozenset({'Nacionality_1.0'}),frozenset({'Educational special needs_0'}),0.9886706948640483
+"frozenset({""Father's occupation_3""})",frozenset({'Educational special needs_0'}),0.9886363636363636
+"frozenset({""Mother's qualification_38""})",frozenset({'Educational special needs_0'}),0.9886363636363636
+frozenset({'International_0'}),frozenset({'Educational special needs_0'}),0.9886279357231149
+"frozenset({""Father's qualification_37""})",frozenset({'Educational special needs_0'}),0.9885964912280701
+frozenset({'Application order_2'}),frozenset({'Educational special needs_0'}),0.9882583170254403
+frozenset({'Course_9991'}),frozenset({'International_0'}),0.9881889763779528
+frozenset({'Tuition fees up to date_1'}),frozenset({'Educational special needs_0'}),0.9879715691634773
+"frozenset({""Father's qualification_38""})",frozenset({'Educational special needs_0'}),0.9878234398782344
+frozenset({'Application mode_17'}),frozenset({'International_0'}),0.9877750611246944
+"frozenset({""Mother's occupation_3""})",frozenset({'Educational special needs_0'}),0.9877675840978594
+frozenset({'Age group_23-27'}),frozenset({'Educational special needs_0'}),0.9877300613496932
+frozenset({'Displaced_1'}),frozenset({'Educational special needs_0'}),0.9876868953386104
+"frozenset({""Mother's qualification_3""})",frozenset({'Educational special needs_0'}),0.9876543209876543
+frozenset({'Previous qualification_1'}),frozenset({'Educational special needs_0'}),0.9876472278081011
+frozenset({'Marital status_1'}),frozenset({'Educational special needs_0'}),0.9874932028276238
+frozenset({'Application order_4'}),frozenset({'International_0'}),0.9873949579831933
+frozenset({'Application order_4'}),frozenset({'Daytime/evening attendance_1'}),0.9873949579831933
+frozenset({'Gender_0.0'}),frozenset({'Educational special needs_0'}),0.9873228933631618
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Educational special needs_0'}),0.9873108833577355
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Educational special needs_0'}),0.9872801082543978
+frozenset({'Debtor_1'}),frozenset({'Educational special needs_0'}),0.9870689655172413
+"frozenset({""Father's qualification_1""})",frozenset({'Educational special needs_0'}),0.9868891537544696
+frozenset({'Application mode_39'}),frozenset({'International_0'}),0.9865591397849462
+frozenset({'Application mode_17'}),frozenset({'Educational special needs_0'}),0.9865525672371638
+frozenset({'Target_Graduate'}),frozenset({'Tuition fees up to date_1'}),0.9864930053063193
+"frozenset({""Father's occupation_9""})",frozenset({'Educational special needs_0'}),0.9864158829676071
+frozenset({'Age group_18-22'}),frozenset({'Educational special needs_0'}),0.9863253856942497
+frozenset({'Application order_3'}),frozenset({'Daytime/evening attendance_1'}),0.9861111111111112
+frozenset({'Application order_3'}),frozenset({'Previous qualification_1'}),0.9861111111111112
+frozenset({'Marital status_2'}),frozenset({'International_0'}),0.9860335195530726
+frozenset({'Age group_18-22'}),frozenset({'Daytime/evening attendance_1'}),0.9859747545582047
+"frozenset({""Mother's occupation_5""})",frozenset({'International_0'}),0.9857433808553971
+"frozenset({""Mother's occupation_5""})",frozenset({'Educational special needs_0'}),0.9857433808553971
+"frozenset({""Father's occupation_5""})",frozenset({'Educational special needs_0'}),0.98559670781893
+frozenset({'Target_Enrolled'}),frozenset({'Educational special needs_0'}),0.985254691689008
+"frozenset({""Mother's qualification_1""})",frozenset({'Educational special needs_0'}),0.9848942598187311
+"frozenset({""Father's qualification_19""})",frozenset({'International_0'}),0.9846827133479212
+frozenset({'Application mode_1'}),frozenset({'Educational special needs_0'}),0.9843554443053817
+"frozenset({""Mother's occupation_4""})",frozenset({'Educational special needs_0'}),0.9842105263157894
+"frozenset({""Mother's occupation_4""})",frozenset({'International_0'}),0.9842105263157894
+frozenset({'Scholarship holder_1'}),frozenset({'Educational special needs_0'}),0.9835430784123911
+"frozenset({""Father's occupation_5""})",frozenset({'International_0'}),0.9835390946502057
+"frozenset({""Father's occupation_4""})",frozenset({'Educational special needs_0'}),0.9834254143646409
+frozenset({'Application order_4'}),frozenset({'Previous qualification_1'}),0.9831932773109243
+"frozenset({""Mother's occupation_2""})",frozenset({'Educational special needs_0'}),0.9831081081081081
+"frozenset({""Mother's qualification_38""})",frozenset({'International_0'}),0.9829545454545454
+frozenset({'Application order_3'}),frozenset({'Educational special needs_0'}),0.9826388888888888
+frozenset({'Application order_3'}),frozenset({'Marital status_1'}),0.9826388888888888
+"frozenset({""Mother's qualification_19""})",frozenset({'International_0'}),0.9823594266813671
+frozenset({'International_0'}),frozenset({'Nacionality_1.0'}),0.9819530284301607
+frozenset({'Application mode_1'}),frozenset({'International_0'}),0.9818523153942428
+frozenset({'Scholarship holder_1'}),frozenset({'International_0'}),0.9816069699903195
+"frozenset({""Father's occupation_7""})",frozenset({'International_0'}),0.9809523809523809
+frozenset({'Course_9773'}),frozenset({'Educational special needs_0'}),0.9808306709265175
+frozenset({'Course_9670'}),frozenset({'Educational special needs_0'}),0.9807692307692307
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Educational special needs_0'}),0.9807427785419532
+"frozenset({""Mother's occupation_7""})",frozenset({'Educational special needs_0'}),0.980544747081712
+"frozenset({""Father's occupation_3""})",frozenset({'International_0'}),0.9801136363636364
+"frozenset({""Father's qualification_37""})",frozenset({'International_0'}),0.9798245614035088
+frozenset({'Course_9238'}),frozenset({'International_0'}),0.9791666666666666
+frozenset({'Age group_28-35'}),frozenset({'International_0'}),0.9790897908979089
+frozenset({'Gender_1.0'}),frozenset({'International_0'}),0.9790648988136776
+frozenset({'Application order_4'}),frozenset({'Marital status_1'}),0.9789915966386554
+frozenset({'Application order_4'}),frozenset({'Educational special needs_0'}),0.9789915966386554
+"frozenset({""Mother's qualification_37""})",frozenset({'International_0'}),0.9789029535864979
+frozenset({'Application mode_1'}),frozenset({'Marital status_1'}),0.9787234042553191
+frozenset({'Debtor_0'}),frozenset({'International_0'}),0.9780487804878049
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'International_0'}),0.9779917469050894
+frozenset({'Course_9670'}),frozenset({'International_0'}),0.9769230769230769
+frozenset({'Application mode_1'}),frozenset({'Daytime/evening attendance_1'}),0.976846057571965
+"frozenset({""Mother's occupation_7""})",frozenset({'Nacionality_1.0'}),0.9766536964980544
+frozenset({'Tuition fees up to date_1'}),frozenset({'International_0'}),0.9764898851831602
+frozenset({'Course_9238'}),frozenset({'Educational special needs_0'}),0.9761904761904762
+frozenset({'Target_Dropout'}),frozenset({'International_0'}),0.9760299625468165
+"frozenset({""Father's qualification_38""})",frozenset({'Nacionality_1.0'}),0.9756468797564688
+"frozenset({""Mother's occupation_3""})",frozenset({'International_0'}),0.9755351681957186
+frozenset({'Displaced_1'}),frozenset({'International_0'}),0.974934036939314
+frozenset({'Application mode_17'}),frozenset({'Daytime/evening attendance_1'}),0.9743276283618582
+frozenset({'Target_Graduate'}),frozenset({'International_0'}),0.9739507959479016
+frozenset({'Educational special needs_0'}),frozenset({'International_0'}),0.9737034331628927
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'International_0'}),0.9736456808199122
+frozenset({'Age group_18-22'}),frozenset({'International_0'}),0.9733520336605891
+"frozenset({""Father's occupation_4""})",frozenset({'International_0'}),0.9723756906077348
+frozenset({'Displaced_0'}),frozenset({'International_0'}),0.9723404255319149
+frozenset({'Application order_3'}),frozenset({'Age group_18-22'}),0.9722222222222222
+frozenset({'Application order_3'}),frozenset({'International_0'}),0.9722222222222222
+frozenset({'Application order_1'}),frozenset({'International_0'}),0.9721733004579077
+"frozenset({""Father's occupation_8""})",frozenset({'International_0'}),0.972027972027972
+frozenset({'Marital status_1'}),frozenset({'International_0'}),0.9719956498096791
+frozenset({'Daytime/evening attendance_1'}),frozenset({'International_0'}),0.9718538565629229
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'International_0'}),0.9716981132075472
+frozenset({'Scholarship holder_0'}),frozenset({'International_0'}),0.9711630887536046
+frozenset({'Course_9500'}),frozenset({'Nacionality_1.0'}),0.970873786407767
+frozenset({'Previous qualification_1'}),frozenset({'International_0'}),0.9706980752657283
+frozenset({'Gender_0.0'}),frozenset({'International_0'}),0.9705443698732289
+frozenset({'Course_9238'}),frozenset({'Nacionality_1.0'}),0.9702380952380952
+frozenset({'Marital status_2'}),frozenset({'Nacionality_1.0'}),0.9692737430167597
+frozenset({'Target_Enrolled'}),frozenset({'International_0'}),0.9691689008042895
+frozenset({'Course_9147'}),frozenset({'International_0'}),0.9690140845070423
+"frozenset({""Father's occupation_3""})",frozenset({'Nacionality_1.0'}),0.96875
+frozenset({'Application order_2'}),frozenset({'International_0'}),0.9686888454011742
+frozenset({'Course_9991'}),frozenset({'Nacionality_1.0'}),0.968503937007874
+frozenset({'Application mode_17'}),frozenset({'Nacionality_1.0'}),0.9682151589242054
+frozenset({'Scholarship holder_1'}),frozenset({'Nacionality_1.0'}),0.968054211035818
+"frozenset({""Mother's qualification_3""})",frozenset({'International_0'}),0.9679012345679012
+frozenset({'Daytime/evening attendance_0'}),frozenset({'Nacionality_1.0'}),0.9673202614379085
+frozenset({'Age group_23-27'}),frozenset({'International_0'}),0.967280163599182
+frozenset({'Displaced_1'}),frozenset({'Marital status_1'}),0.9670184696569921
+"frozenset({""Mother's qualification_19""})",frozenset({'Nacionality_1.0'}),0.9669239250275634
+"frozenset({""Mother's occupation_9""})",frozenset({'International_0'}),0.9664204163868368
+frozenset({'Course_9254'}),frozenset({'International_0'}),0.9663865546218487
+frozenset({'Application order_4'}),frozenset({'Nacionality_1.0'}),0.9663865546218487
+"frozenset({""Mother's qualification_1""})",frozenset({'International_0'}),0.9657603222557906
+frozenset({'Application mode_1'}),frozenset({'Nacionality_1.0'}),0.9655819774718398
+frozenset({'Course_9085'}),frozenset({'International_0'}),0.964516129032258
+"frozenset({""Father's occupation_9""})",frozenset({'International_0'}),0.9644723092998955
+"frozenset({""Mother's occupation_5""})",frozenset({'Nacionality_1.0'}),0.9633401221995926
+"frozenset({""Mother's occupation_3""})",frozenset({'Nacionality_1.0'}),0.963302752293578
+"frozenset({""Father's occupation_5""})",frozenset({'Nacionality_1.0'}),0.9629629629629629
+frozenset({'Course_9500'}),frozenset({'Debtor_0'}),0.9625520110957004
+frozenset({'Application mode_39'}),frozenset({'Nacionality_1.0'}),0.9623655913978495
+frozenset({'Application order_4'}),frozenset({'Age group_18-22'}),0.9621848739495799
+"frozenset({""Mother's occupation_4""})",frozenset({'Nacionality_1.0'}),0.9618421052631579
+frozenset({'Displaced_1'}),frozenset({'Daytime/evening attendance_1'}),0.9617414248021108
+"frozenset({""Father's qualification_19""})",frozenset({'Nacionality_1.0'}),0.9617067833698031
+frozenset({'Course_9085'}),frozenset({'Nacionality_1.0'}),0.9612903225806452
+"frozenset({""Father's qualification_37""})",frozenset({'Nacionality_1.0'}),0.9605263157894737
+"frozenset({""Mother's qualification_3""})",frozenset({'Nacionality_1.0'}),0.9604938271604938
+"frozenset({""Mother's qualification_3""})",frozenset({'Marital status_1'}),0.9604938271604938
+frozenset({'Debtor_0'}),frozenset({'Nacionality_1.0'}),0.9604336043360434
+"frozenset({""Father's occupation_10""})",frozenset({'Nacionality_1.0'}),0.9603174603174603
+"frozenset({""Mother's occupation_3""})",frozenset({'Marital status_1'}),0.9602446483180428
+"frozenset({""Mother's qualification_38""})",frozenset({'Nacionality_1.0'}),0.9602272727272727
+frozenset({'Gender_1.0'}),frozenset({'Nacionality_1.0'}),0.9602233077459874
+frozenset({'Target_Graduate'}),frozenset({'Nacionality_1.0'}),0.9599614085865895
+frozenset({'Course_9500'}),frozenset({'Tuition fees up to date_1'}),0.9597780859916782
+"frozenset({""Mother's qualification_1""})",frozenset({'Marital status_1'}),0.959718026183283
+"frozenset({""Mother's occupation_2""})",frozenset({'Marital status_1'}),0.9594594594594594
+frozenset({'Scholarship holder_1'}),frozenset({'Tuition fees up to date_1'}),0.9593417231364957
+frozenset({'Tuition fees up to date_1'}),frozenset({'Nacionality_1.0'}),0.9589939857845817
+frozenset({'Displaced_1'}),frozenset({'Nacionality_1.0'}),0.9586631486367634
+"frozenset({""Father's occupation_4""})",frozenset({'Nacionality_1.0'}),0.9585635359116023
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Nacionality_1.0'}),0.9585163494387506
+frozenset({'Course_9773'}),frozenset({'Marital status_1'}),0.9584664536741214
+frozenset({'Application mode_17'}),frozenset({'Age group_18-22'}),0.9584352078239609
+"frozenset({""Mother's qualification_37""})",frozenset({'Nacionality_1.0'}),0.9578059071729957
+frozenset({'Course_9670'}),frozenset({'Nacionality_1.0'}),0.9576923076923077
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Nacionality_1.0'}),0.9573590096286108
+frozenset({'Target_Dropout'}),frozenset({'Nacionality_1.0'}),0.9573033707865168
+"frozenset({""Father's occupation_7""})",frozenset({'Nacionality_1.0'}),0.9571428571428572
+frozenset({'Age group_28-35'}),frozenset({'Nacionality_1.0'}),0.956949569495695
+frozenset({'Course_9991'}),frozenset({'Application order_1'}),0.9566929133858267
+frozenset({'Application order_1'}),frozenset({'Nacionality_1.0'}),0.9566748855230714
+frozenset({'Age group_18-22'}),frozenset({'Nacionality_1.0'}),0.9565217391304348
+frozenset({'Educational special needs_0'}),frozenset({'Nacionality_1.0'}),0.956172388604821
+"frozenset({""Mother's occupation_2""})",frozenset({'International_0'}),0.956081081081081
+"frozenset({""Father's occupation_6""})",frozenset({'International_0'}),0.9553571428571429
+frozenset({'Application order_2'}),frozenset({'Previous qualification_1'}),0.9549902152641878
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Nacionality_1.0'}),0.9548037889039243
+"frozenset({""Father's qualification_1""})",frozenset({'Marital status_1'}),0.9547079856972587
+frozenset({'Marital status_1'}),frozenset({'Nacionality_1.0'}),0.9543230016313213
+frozenset({'Target_Graduate'}),frozenset({'Debtor_0'}),0.9536903039073806
+frozenset({'Tuition fees up to date_0'}),frozenset({'International_0'}),0.9536290322580645
+"frozenset({""Father's qualification_1""})",frozenset({'International_0'}),0.9535160905840286
+frozenset({'Gender_0.0'}),frozenset({'Nacionality_1.0'}),0.953392990305742
+frozenset({'Displaced_0'}),frozenset({'Nacionality_1.0'}),0.9531914893617022
+frozenset({'Age group_23-27'}),frozenset({'Nacionality_1.0'}),0.9529652351738241
+frozenset({'Previous qualification_1'}),frozenset({'Nacionality_1.0'}),0.9528871014076414
+"frozenset({""Mother's occupation_2""})",frozenset({'Daytime/evening attendance_1'}),0.9527027027027027
+frozenset({'Application mode_43'}),frozenset({'International_0'}),0.9527027027027027
+"frozenset({""Mother's qualification_1""})",frozenset({'Daytime/evening attendance_1'}),0.9526686807653575
+frozenset({'Scholarship holder_0'}),frozenset({'Nacionality_1.0'}),0.9522588913809676
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Nacionality_1.0'}),0.9521044992743106
+frozenset({'Course_9773'}),frozenset({'Previous qualification_1'}),0.952076677316294
+frozenset({'Application order_3'}),frozenset({'Nacionality_1.0'}),0.9513888888888888
+"frozenset({""Father's qualification_3""})",frozenset({'Marital status_1'}),0.9511278195488722
+frozenset({'Application order_2'}),frozenset({'Daytime/evening attendance_1'}),0.9510763209393346
+frozenset({'Application mode_1'}),frozenset({'Age group_18-22'}),0.9505632040050063
+"frozenset({""Father's occupation_9""})",frozenset({'Nacionality_1.0'}),0.9498432601880877
+"frozenset({""Mother's occupation_2""})",frozenset({'Nacionality_1.0'}),0.9493243243243243
+"frozenset({""Father's occupation_8""})",frozenset({'Nacionality_1.0'}),0.9475524475524476
+"frozenset({""Mother's occupation_9""})",frozenset({'Nacionality_1.0'}),0.9469442578912022
+"frozenset({""Mother's qualification_1""})",frozenset({'Nacionality_1.0'}),0.94662638469285
+frozenset({'Application mode_43'}),frozenset({'Nacionality_1.0'}),0.9459459459459459
+frozenset({'Course_9773'}),frozenset({'International_0'}),0.9456869009584664
+"frozenset({""Mother's qualification_3""})",frozenset({'Daytime/evening attendance_1'}),0.945679012345679
+frozenset({'Course_9254'}),frozenset({'Nacionality_1.0'}),0.9453781512605042
+frozenset({'Course_9085'}),frozenset({'Marital status_1'}),0.9451612903225807
+frozenset({'Target_Enrolled'}),frozenset({'Tuition fees up to date_1'}),0.9450402144772118
+frozenset({'Target_Enrolled'}),frozenset({'Nacionality_1.0'}),0.9436997319034852
+frozenset({'Application order_2'}),frozenset({'Nacionality_1.0'}),0.9432485322896281
+frozenset({'Course_9773'}),frozenset({'Nacionality_1.0'}),0.9424920127795527
+"frozenset({""Father's qualification_38""})",frozenset({'Daytime/evening attendance_1'}),0.9421613394216134
+frozenset({'Scholarship holder_1'}),frozenset({'Daytime/evening attendance_1'}),0.9419167473378509
+frozenset({'Application order_4'}),frozenset({'Debtor_0'}),0.9411764705882353
+frozenset({'Course_9238'}),frozenset({'Marital status_1'}),0.9404761904761905
+"frozenset({""Father's qualification_1""})",frozenset({'Daytime/evening attendance_1'}),0.9404052443384983
+"frozenset({""Father's qualification_3""})",frozenset({'International_0'}),0.9398496240601504
+frozenset({'Debtor_1'}),frozenset({'International_0'}),0.9396551724137931
+"frozenset({""Mother's occupation_4""})",frozenset({'Daytime/evening attendance_1'}),0.9394736842105263
+frozenset({'Application order_2'}),frozenset({'Debtor_0'}),0.9393346379647749
+frozenset({'Scholarship holder_1'}),frozenset({'Marital status_1'}),0.9390125847047435
+frozenset({'Course_9670'}),frozenset({'Marital status_1'}),0.9384615384615385
+"frozenset({""Father's qualification_19""})",frozenset({'Daytime/evening attendance_1'}),0.937636761487965
+"frozenset({""Father's occupation_6""})",frozenset({'Nacionality_1.0'}),0.9375
+frozenset({'Application order_2'}),frozenset({'Marital status_1'}),0.9373776908023483
+"frozenset({""Father's qualification_1""})",frozenset({'Nacionality_1.0'}),0.9368295589988082
+frozenset({'Application mode_39'}),frozenset({'Application order_1'}),0.9368279569892473
+"frozenset({""Father's qualification_3""})",frozenset({'Daytime/evening attendance_1'}),0.9360902255639098
+"frozenset({""Mother's occupation_3""})",frozenset({'Daytime/evening attendance_1'}),0.9357798165137615
+frozenset({'Tuition fees up to date_0'}),frozenset({'Nacionality_1.0'}),0.9354838709677419
+frozenset({'Tuition fees up to date_1'}),frozenset({'Debtor_0'}),0.9349371241115364
+"frozenset({""Father's qualification_38""})",frozenset({'Marital status_1'}),0.9345509893455098
+"frozenset({""Mother's qualification_19""})",frozenset({'Marital status_1'}),0.9338478500551268
+frozenset({'Age group_18-22'}),frozenset({'Previous qualification_1'}),0.9337307152875175
+frozenset({'Application mode_1'}),frozenset({'Tuition fees up to date_1'}),0.9336670838548186
+frozenset({'Course_9254'}),frozenset({'Marital status_1'}),0.9327731092436975
+frozenset({'Application order_4'}),frozenset({'Tuition fees up to date_1'}),0.9327731092436975
+frozenset({'Course_9147'}),frozenset({'Nacionality_1.0'}),0.9323943661971831
+frozenset({'Age group_28-35'}),frozenset({'Application order_1'}),0.932349323493235
+"frozenset({""Father's qualification_3""})",frozenset({'Nacionality_1.0'}),0.9323308270676691
+"frozenset({""Mother's qualification_19""})",frozenset({'Daytime/evening attendance_1'}),0.9305402425578831
+frozenset({'Marital status_1'}),frozenset({'Daytime/evening attendance_1'}),0.9303969548667754
+frozenset({'Course_9500'}),frozenset({'Marital status_1'}),0.9292649098474342
+"frozenset({""Mother's occupation_4""})",frozenset({'Marital status_1'}),0.9289473684210526
+"frozenset({""Mother's qualification_38""})",frozenset({'Marital status_1'}),0.928030303030303
+frozenset({'Debtor_0'}),frozenset({'Tuition fees up to date_1'}),0.926829268292683
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Marital status_1'}),0.9261163734776725
+"frozenset({""Mother's occupation_2""})",frozenset({'Scholarship holder_0'}),0.9256756756756757
+frozenset({'Course_9238'}),frozenset({'Tuition fees up to date_1'}),0.9255952380952381
+frozenset({'Age group_18-22'}),frozenset({'Tuition fees up to date_1'}),0.9253155680224404
+frozenset({'Scholarship holder_1'}),frozenset({'Debtor_0'}),0.9244917715392061
+frozenset({'Age group_23-27'}),frozenset({'Marital status_1'}),0.9243353783231084
+frozenset({'Daytime/evening attendance_0'}),frozenset({'Application order_1'}),0.9237472766884531
+frozenset({'Application mode_1'}),frozenset({'Debtor_0'}),0.9236545682102628
+"frozenset({""Mother's qualification_3""})",frozenset({'Debtor_0'}),0.9234567901234568
+"frozenset({""Father's occupation_3""})",frozenset({'Marital status_1'}),0.9232954545454546
+frozenset({'Course_9670'}),frozenset({'Previous qualification_1'}),0.9230769230769231
+"frozenset({""Mother's occupation_5""})",frozenset({'Marital status_1'}),0.9226069246435845
+frozenset({'Debtor_1'}),frozenset({'Nacionality_1.0'}),0.9224137931034483
+"frozenset({""Mother's occupation_7""})",frozenset({'Debtor_0'}),0.9221789883268483
+"frozenset({""Father's occupation_5""})",frozenset({'Marital status_1'}),0.9218106995884774
+frozenset({'Course_9991'}),frozenset({'Scholarship holder_0'}),0.9212598425196851
+"frozenset({""Father's occupation_7""})",frozenset({'Daytime/evening attendance_1'}),0.9206349206349206
+frozenset({'Scholarship holder_1'}),frozenset({'Previous qualification_1'}),0.920619554695063
+"frozenset({""Mother's qualification_38""})",frozenset({'Daytime/evening attendance_1'}),0.9204545454545454
+"frozenset({""Father's qualification_19""})",frozenset({'Marital status_1'}),0.9201312910284464
+"frozenset({""Father's occupation_5""})",frozenset({'Daytime/evening attendance_1'}),0.9197530864197531
+"frozenset({""Father's occupation_8""})",frozenset({'Marital status_1'}),0.9195804195804196
+"frozenset({""Mother's occupation_7""})",frozenset({'Daytime/evening attendance_1'}),0.9182879377431906
+frozenset({'Application mode_17'}),frozenset({'Debtor_0'}),0.9168704156479217
+frozenset({'Application order_3'}),frozenset({'Debtor_0'}),0.9166666666666666
+frozenset({'Application order_3'}),frozenset({'Tuition fees up to date_1'}),0.9166666666666666
+frozenset({'Age group_18-22'}),frozenset({'Debtor_0'}),0.9165497896213184
+"frozenset({""Father's qualification_38""})",frozenset({'Tuition fees up to date_1'}),0.9162861491628614
+frozenset({'Course_9254'}),frozenset({'Debtor_0'}),0.9159663865546218
+"frozenset({""Father's occupation_7""})",frozenset({'Debtor_0'}),0.9158730158730158
+"frozenset({""Mother's occupation_2""})",frozenset({'Tuition fees up to date_1'}),0.9155405405405406
+frozenset({'Tuition fees up to date_0'}),frozenset({'Scholarship holder_0'}),0.9153225806451613
+"frozenset({""Mother's occupation_4""})",frozenset({'Debtor_0'}),0.9144736842105263
+frozenset({'Previous qualification_1'}),frozenset({'Marital status_1'}),0.9141051422005171
+"frozenset({""Father's qualification_3""})",frozenset({'Scholarship holder_0'}),0.9135338345864662
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Daytime/evening attendance_1'}),0.9133425034387895
+frozenset({'Displaced_1'}),frozenset({'Debtor_0'}),0.9129287598944591
+"frozenset({""Father's occupation_7""})",frozenset({'Tuition fees up to date_1'}),0.9126984126984127
+frozenset({'Course_9500'}),frozenset({'Previous qualification_1'}),0.912621359223301
+frozenset({'Application mode_17'}),frozenset({'Tuition fees up to date_1'}),0.9119804400977995
+frozenset({'Application order_2'}),frozenset({'Tuition fees up to date_1'}),0.9119373776908023
+"frozenset({""Father's occupation_3""})",frozenset({'Daytime/evening attendance_1'}),0.9119318181818182
+frozenset({'Target_Graduate'}),frozenset({'Marital status_1'}),0.9117221418234442
+frozenset({'Previous qualification_1'}),frozenset({'Daytime/evening attendance_1'}),0.9109451307095662
+frozenset({'Displaced_1'}),frozenset({'Tuition fees up to date_1'}),0.9102902374670184
+frozenset({'Course_9991'}),frozenset({'Debtor_0'}),0.9094488188976378
+"frozenset({""Mother's qualification_38""})",frozenset({'Tuition fees up to date_1'}),0.9090909090909091
+"frozenset({""Mother's occupation_2""})",frozenset({'Debtor_0'}),0.9087837837837838
+"frozenset({""Mother's occupation_5""})",frozenset({'Daytime/evening attendance_1'}),0.9083503054989817
+frozenset({'Age group_23-27'}),frozenset({'Application order_1'}),0.9079754601226994
+frozenset({'Target_Graduate'}),frozenset({'Daytime/evening attendance_1'}),0.9078630004823927
+"frozenset({""Mother's occupation_7""})",frozenset({'Marital status_1'}),0.9066147859922179
+"frozenset({""Mother's occupation_5""})",frozenset({'Tuition fees up to date_1'}),0.9063136456211812
+"frozenset({""Mother's qualification_3""})",frozenset({'Scholarship holder_0'}),0.9061728395061729
+frozenset({'Target_Enrolled'}),frozenset({'Marital status_1'}),0.9061662198391421
+"frozenset({""Father's occupation_4""})",frozenset({'Daytime/evening attendance_1'}),0.9060773480662984
+frozenset({'Gender_0.0'}),frozenset({'Tuition fees up to date_1'}),0.9060402684563759
+frozenset({'Target_Dropout'}),frozenset({'Scholarship holder_0'}),0.9056179775280899
+frozenset({'Marital status_2'}),frozenset({'Scholarship holder_0'}),0.9050279329608939
+"frozenset({""Father's occupation_7""})",frozenset({'Marital status_1'}),0.9047619047619048
+"frozenset({""Mother's occupation_5""})",frozenset({'Debtor_0'}),0.9042769857433809
+frozenset({'Target_Enrolled'}),frozenset({'Daytime/evening attendance_1'}),0.903485254691689
+"frozenset({""Father's occupation_3""})",frozenset({'Tuition fees up to date_1'}),0.9034090909090909
+frozenset({'Course_9254'}),frozenset({'Previous qualification_1'}),0.9033613445378151
+"frozenset({""Father's occupation_5""})",frozenset({'Debtor_0'}),0.9032921810699589
+frozenset({'Course_9085'}),frozenset({'Debtor_0'}),0.9032258064516129
+frozenset({'Displaced_1'}),frozenset({'Previous qualification_1'}),0.9028144239226034
+"frozenset({""Mother's occupation_7""})",frozenset({'Tuition fees up to date_1'}),0.9027237354085603
+"frozenset({""Father's qualification_19""})",frozenset({'Tuition fees up to date_1'}),0.9026258205689278
+frozenset({'Previous qualification_1'}),frozenset({'Debtor_0'}),0.9026141913243321
+frozenset({'Marital status_2'}),frozenset({'Application order_1'}),0.9022346368715084
+frozenset({'Age group_28-35'}),frozenset({'Scholarship holder_0'}),0.9015990159901599
+"frozenset({""Father's occupation_4""})",frozenset({'Debtor_0'}),0.9005524861878453
+"frozenset({""Mother's qualification_38""})",frozenset({'Debtor_0'}),0.8996212121212122
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Daytime/evening attendance_1'}),0.8994631527574427
+frozenset({'Gender_0.0'}),frozenset({'Debtor_0'}),0.8993288590604027
+"frozenset({""Mother's occupation_3""})",frozenset({'Debtor_0'}),0.8990825688073395
+"frozenset({""Father's occupation_8""})",frozenset({'Daytime/evening attendance_1'}),0.8986013986013986
+frozenset({'Course_9147'}),frozenset({'Previous qualification_1'}),0.8985915492957747
+"frozenset({""Father's qualification_19""})",frozenset({'Debtor_0'}),0.8982494529540481
+frozenset({'Previous qualification_1'}),frozenset({'Tuition fees up to date_1'}),0.8980178109738581
+"frozenset({""Father's occupation_4""})",frozenset({'Marital status_1'}),0.8977900552486188
+frozenset({'Tuition fees up to date_1'}),frozenset({'Marital status_1'}),0.8974849644614543
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Marital status_1'}),0.8970229380185456
+"frozenset({""Father's occupation_10""})",frozenset({'Scholarship holder_0'}),0.8968253968253969
+"frozenset({""Father's occupation_10""})",frozenset({'Tuition fees up to date_1'}),0.8968253968253969
+frozenset({'Debtor_1'}),frozenset({'Daytime/evening attendance_1'}),0.896551724137931
+"frozenset({""Father's qualification_38""})",frozenset({'Debtor_0'}),0.8964992389649924
+"frozenset({""Mother's occupation_5""})",frozenset({'Previous qualification_1'}),0.8961303462321792
+frozenset({'Course_9238'}),frozenset({'Previous qualification_1'}),0.8958333333333334
+frozenset({'Daytime/evening attendance_0'}),frozenset({'Debtor_0'}),0.8954248366013072
+"frozenset({""Father's occupation_3""})",frozenset({'Debtor_0'}),0.8948863636363636
+frozenset({'Tuition fees up to date_1'}),frozenset({'Daytime/evening attendance_1'}),0.8942044833242209
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Marital status_1'}),0.8940852819807428
+"frozenset({""Mother's qualification_3""})",frozenset({'Tuition fees up to date_1'}),0.8938271604938272
+"frozenset({""Mother's occupation_4""})",frozenset({'Tuition fees up to date_1'}),0.8934210526315789
+frozenset({'Marital status_1'}),frozenset({'Debtor_0'}),0.8926046764545948
+frozenset({'Marital status_1'}),frozenset({'Tuition fees up to date_1'}),0.8926046764545948
+frozenset({'Nacionality_1.0'}),frozenset({'Debtor_0'}),0.892245720040282
+frozenset({'International_0'}),frozenset({'Debtor_0'}),0.89221260815822
+frozenset({'Application mode_43'}),frozenset({'Debtor_0'}),0.8918918918918919
+frozenset({'Gender_0.0'}),frozenset({'Daytime/evening attendance_1'}),0.8918717375093214
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Debtor_0'}),0.8916544655929722
+"frozenset({""Father's qualification_1""})",frozenset({'Debtor_0'}),0.8903456495828367
+frozenset({'Course_9147'}),frozenset({'Debtor_0'}),0.8901408450704226
+frozenset({'Target_Enrolled'}),frozenset({'Debtor_0'}),0.8900804289544236
+frozenset({'Debtor_0'}),frozenset({'Marital status_1'}),0.8897018970189702
+"frozenset({""Father's occupation_4""})",frozenset({'Tuition fees up to date_1'}),0.8895027624309392
+frozenset({'Gender_0.0'}),frozenset({'Marital status_1'}),0.889261744966443
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Debtor_0'}),0.8889695210449927
+"frozenset({""Father's occupation_10""})",frozenset({'Debtor_0'}),0.8888888888888888
+"frozenset({""Father's occupation_10""})",frozenset({'Daytime/evening attendance_1'}),0.8888888888888888
+"frozenset({""Father's occupation_5""})",frozenset({'Tuition fees up to date_1'}),0.8888888888888888
+frozenset({'Debtor_0'}),frozenset({'Daytime/evening attendance_1'}),0.8886178861788618
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Tuition fees up to date_1'}),0.8885832187070152
+frozenset({'Educational special needs_0'}),frozenset({'Debtor_0'}),0.8884830776722669
+frozenset({'Marital status_2'}),frozenset({'Age group_28-35'}),0.888268156424581
+"frozenset({""Mother's qualification_38""})",frozenset({'Previous qualification_1'}),0.8882575757575758
+frozenset({'Educational special needs_0'}),frozenset({'Daytime/evening attendance_1'}),0.8882395909422937
+frozenset({'Nacionality_1.0'}),frozenset({'Daytime/evening attendance_1'}),0.8882175226586103
+"frozenset({""Father's occupation_9""})",frozenset({'Debtor_0'}),0.8881922675026124
+frozenset({'Course_9773'}),frozenset({'Age group_18-22'}),0.8881789137380192
+frozenset({'International_0'}),frozenset({'Daytime/evening attendance_1'}),0.8877626699629172
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Debtor_0'}),0.8874154262516915
+"frozenset({""Mother's occupation_7""})",frozenset({'Previous qualification_1'}),0.8871595330739299
+frozenset({'Gender_1.0'}),frozenset({'Daytime/evening attendance_1'}),0.886950453593859
+"frozenset({""Father's occupation_5""})",frozenset({'Previous qualification_1'}),0.8868312757201646
+"frozenset({""Mother's qualification_1""})",frozenset({'Debtor_0'}),0.8862034239677744
+"frozenset({""Mother's qualification_19""})",frozenset({'Tuition fees up to date_1'}),0.8853362734288864
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Tuition fees up to date_1'}),0.8853099072718399
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Tuition fees up to date_1'}),0.8852503382949932
+"frozenset({""Father's occupation_8""})",frozenset({'Debtor_0'}),0.8846153846153846
+frozenset({'Course_9147'}),frozenset({'Marital status_1'}),0.8845070422535212
+"frozenset({""Father's qualification_1""})",frozenset({'Tuition fees up to date_1'}),0.8843861740166865
+frozenset({'Educational special needs_0'}),frozenset({'Marital status_1'}),0.8843438032627222
+"frozenset({""Mother's qualification_1""})",frozenset({'Tuition fees up to date_1'}),0.8841893252769386
+frozenset({'International_0'}),frozenset({'Marital status_1'}),0.8838071693448702
+frozenset({'Nacionality_1.0'}),frozenset({'Marital status_1'}),0.8836858006042296
+frozenset({'Nacionality_1.0'}),frozenset({'Tuition fees up to date_1'}),0.8831822759315207
+"frozenset({""Mother's qualification_19""})",frozenset({'Debtor_0'}),0.8831312017640573
+frozenset({'International_0'}),frozenset({'Tuition fees up to date_1'}),0.8830655129789864
+"frozenset({""Father's occupation_7""})",frozenset({'Previous qualification_1'}),0.8809523809523809
+"frozenset({""Mother's occupation_3""})",frozenset({'Tuition fees up to date_1'}),0.8807339449541285
+"frozenset({""Father's qualification_37""})",frozenset({'Debtor_0'}),0.8807017543859649
+"frozenset({""Father's occupation_3""})",frozenset({'Previous qualification_1'}),0.8806818181818182
+frozenset({'Gender_1.0'}),frozenset({'Marital status_1'}),0.8806699232379623
+frozenset({'Educational special needs_0'}),frozenset({'Tuition fees up to date_1'}),0.8799610421232043
+frozenset({'Displaced_0'}),frozenset({'Application order_1'}),0.8787234042553191
+frozenset({'Application mode_43'}),frozenset({'Tuition fees up to date_1'}),0.8783783783783784
+frozenset({'Application order_4'}),frozenset({'Displaced_1'}),0.8781512605042017
+"frozenset({""Mother's occupation_3""})",frozenset({'Previous qualification_1'}),0.8776758409785933
+"frozenset({""Father's occupation_8""})",frozenset({'Tuition fees up to date_1'}),0.8776223776223776
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Debtor_0'}),0.8775790921595599
+frozenset({'Target_Graduate'}),frozenset({'Previous qualification_1'}),0.8769898697539797
+frozenset({'Scholarship holder_0'}),frozenset({'Debtor_0'}),0.8763216917654598
+frozenset({'Course_9773'}),frozenset({'Debtor_0'}),0.8753993610223643
+frozenset({'Target_Enrolled'}),frozenset({'Previous qualification_1'}),0.8753351206434317
+frozenset({'Course_9238'}),frozenset({'Age group_18-22'}),0.875
+"frozenset({""Mother's qualification_19""})",frozenset({'Previous qualification_1'}),0.8743109151047409
+frozenset({'Course_9085'}),frozenset({'Tuition fees up to date_1'}),0.8741935483870967
+frozenset({'Age group_23-27'}),frozenset({'Scholarship holder_0'}),0.8732106339468303
+frozenset({'Scholarship holder_0'}),frozenset({'Daytime/evening attendance_1'}),0.8721563601409804
+"frozenset({""Mother's qualification_37""})",frozenset({'Debtor_0'}),0.8713080168776371
+"frozenset({""Father's qualification_38""})",frozenset({'Previous qualification_1'}),0.8706240487062404
+"frozenset({""Father's qualification_19""})",frozenset({'Previous qualification_1'}),0.8698030634573304
+frozenset({'Gender_1.0'}),frozenset({'Debtor_0'}),0.8695045359385903
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Tuition fees up to date_1'}),0.8693759071117562
+frozenset({'Daytime/evening attendance_0'}),frozenset({'Scholarship holder_0'}),0.869281045751634
+frozenset({'Course_9238'}),frozenset({'Gender_0.0'}),0.8690476190476191
+frozenset({'Application order_1'}),frozenset({'Debtor_0'}),0.8689679464600212
+"frozenset({""Father's qualification_3""})",frozenset({'Tuition fees up to date_1'}),0.868421052631579
+"frozenset({""Mother's occupation_9""})",frozenset({'Debtor_0'}),0.867696440564137
+frozenset({'Scholarship holder_0'}),frozenset({'Marital status_1'}),0.8676706183915411
+frozenset({'Course_9147'}),frozenset({'Tuition fees up to date_1'}),0.8676056338028169
+frozenset({'Application order_1'}),frozenset({'Tuition fees up to date_1'}),0.8661500528355055
+frozenset({'Course_9238'}),frozenset({'Debtor_0'}),0.8660714285714286
+frozenset({'Marital status_2'}),frozenset({'Debtor_0'}),0.8659217877094972
+frozenset({'Application mode_39'}),frozenset({'Scholarship holder_0'}),0.8655913978494624
+frozenset({'Course_9670'}),frozenset({'Tuition fees up to date_1'}),0.8653846153846154
+frozenset({'Course_9670'}),frozenset({'Debtor_0'}),0.8653846153846154
+frozenset({'Marital status_1'}),frozenset({'Previous qualification_1'}),0.8651441000543774
+"frozenset({""Father's occupation_10""})",frozenset({'Marital status_1'}),0.8650793650793651
+frozenset({'Application mode_43'}),frozenset({'Scholarship holder_0'}),0.8648648648648649
+"frozenset({""Father's occupation_8""})",frozenset({'Previous qualification_1'}),0.8636363636363636
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Marital status_1'}),0.8635703918722787
+frozenset({'Scholarship holder_1'}),frozenset({'Age group_18-22'}),0.8625363020329139
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Daytime/evening attendance_1'}),0.8621190130624092
+"frozenset({""Father's occupation_9""})",frozenset({'Daytime/evening attendance_1'}),0.8620689655172413
+"frozenset({""Mother's qualification_1""})",frozenset({'Previous qualification_1'}),0.8620342396777442
+"frozenset({""Mother's occupation_9""})",frozenset({'Daytime/evening attendance_1'}),0.8616521155137676
+"frozenset({""Father's occupation_9""})",frozenset({'Tuition fees up to date_1'}),0.8610240334378265
+"frozenset({""Mother's occupation_9""})",frozenset({'Tuition fees up to date_1'}),0.8609805238415044
+frozenset({'Gender_0.0'}),frozenset({'Previous qualification_1'}),0.860924683072334
+frozenset({'Tuition fees up to date_0'}),frozenset({'Target_Dropout'}),0.8608870967741935
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Previous qualification_1'}),0.8599419448476052
+frozenset({'Displaced_0'}),frozenset({'Debtor_0'}),0.8585106382978723
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Previous qualification_1'}),0.8581867388362652
+"frozenset({""Father's qualification_1""})",frozenset({'Previous qualification_1'}),0.8581644815256257
+frozenset({'Application mode_43'}),frozenset({'Previous qualification_1'}),0.8581081081081081
+frozenset({'Application order_3'}),frozenset({'Displaced_1'}),0.8576388888888888
+"frozenset({""Mother's qualification_37""})",frozenset({'Tuition fees up to date_1'}),0.8565400843881856
+frozenset({'Course_9773'}),frozenset({'Tuition fees up to date_1'}),0.8562300319488818
+frozenset({'Application order_2'}),frozenset({'Age group_18-22'}),0.8551859099804305
+frozenset({'Tuition fees up to date_0'}),frozenset({'Daytime/evening attendance_1'}),0.8548387096774194
+frozenset({'Tuition fees up to date_1'}),frozenset({'Previous qualification_1'}),0.8545653362493165
+frozenset({'Scholarship holder_0'}),frozenset({'Tuition fees up to date_1'}),0.8545338032681833
+frozenset({'Target_Dropout'}),frozenset({'Daytime/evening attendance_1'}),0.853183520599251
+"frozenset({""Father's occupation_9""})",frozenset({'Marital status_1'}),0.8526645768025078
+frozenset({'Debtor_0'}),frozenset({'Previous qualification_1'}),0.851490514905149
+frozenset({'Debtor_1'}),frozenset({'Marital status_1'}),0.8512931034482759
+frozenset({'Gender_1.0'}),frozenset({'Scholarship holder_0'}),0.8506629448709002
+frozenset({'Application order_1'}),frozenset({'Daytime/evening attendance_1'}),0.8506516379006692
+"frozenset({""Father's qualification_37""})",frozenset({'Tuition fees up to date_1'}),0.85
+frozenset({'Application order_1'}),frozenset({'Marital status_1'}),0.8485382176822825
+frozenset({'Displaced_1'}),frozenset({'Age group_18-22'}),0.8465259454705365
+"frozenset({""Father's occupation_9""})",frozenset({'Previous qualification_1'}),0.845350052246604
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Previous qualification_1'}),0.8452903855539288
+frozenset({'Displaced_0'}),frozenset({'Tuition fees up to date_1'}),0.8446808510638298
+frozenset({'Daytime/evening attendance_0'}),frozenset({'Tuition fees up to date_1'}),0.8431372549019608
+"frozenset({""Mother's qualification_3""})",frozenset({'Previous qualification_1'}),0.8419753086419753
+frozenset({'Target_Enrolled'}),frozenset({'Scholarship holder_0'}),0.8404825737265416
+"frozenset({""Mother's occupation_9""})",frozenset({'Marital status_1'}),0.8388179986568166
+frozenset({'Course_9085'}),frozenset({'Scholarship holder_0'}),0.8387096774193549
+"frozenset({""Mother's occupation_4""})",frozenset({'Previous qualification_1'}),0.8381578947368421
+"frozenset({""Mother's occupation_9""})",frozenset({'Previous qualification_1'}),0.8381464069845533
+frozenset({'Educational special needs_0'}),frozenset({'Previous qualification_1'}),0.8371073776479182
+frozenset({'Gender_1.0'}),frozenset({'Tuition fees up to date_1'}),0.8360083740404746
+frozenset({'International_0'}),frozenset({'Previous qualification_1'}),0.8353522867737948
+frozenset({'Nacionality_1.0'}),frozenset({'Previous qualification_1'}),0.8350956696878147
+"frozenset({""Father's qualification_3""})",frozenset({'Debtor_0'}),0.8345864661654135
+frozenset({'Application mode_43'}),frozenset({'Application order_1'}),0.8344594594594594
+"frozenset({""Father's occupation_4""})",frozenset({'Previous qualification_1'}),0.8342541436464088
+frozenset({'Target_Dropout'}),frozenset({'Marital status_1'}),0.8329588014981273
+frozenset({'Debtor_1'}),frozenset({'Scholarship holder_0'}),0.8318965517241379
+frozenset({'Marital status_2'}),frozenset({'Displaced_0'}),0.8296089385474861
+frozenset({'Age group_28-35'}),frozenset({'Debtor_0'}),0.8277982779827798
+"frozenset({""Father's qualification_3""})",frozenset({'Previous qualification_1'}),0.8270676691729323
+frozenset({'Course_9991'}),frozenset({'Displaced_0'}),0.8267716535433071
+frozenset({'Age group_23-27'}),frozenset({'Debtor_0'}),0.8241308793456033
+frozenset({'Course_9991'}),frozenset({'Tuition fees up to date_1'}),0.8228346456692913
+frozenset({'Application mode_43'}),frozenset({'Marital status_1'}),0.8209459459459459
+"frozenset({""Father's qualification_38""})",frozenset({'Age group_18-22'}),0.8143074581430746
+frozenset({'Course_9500'}),frozenset({'Age group_18-22'}),0.812760055478502
+frozenset({'Age group_23-27'}),frozenset({'Tuition fees up to date_1'}),0.8118609406952966
+frozenset({'Scholarship holder_0'}),frozenset({'Previous qualification_1'}),0.8106376161486702
+frozenset({'Application mode_39'}),frozenset({'Debtor_0'}),0.8104838709677419
+frozenset({'Daytime/evening attendance_0'}),frozenset({'Displaced_0'}),0.8104575163398693
+frozenset({'Course_9085'}),frozenset({'Gender_0.0'}),0.8096774193548387
+"frozenset({""Father's occupation_3""})",frozenset({'Scholarship holder_0'}),0.8096590909090909
+"frozenset({""Father's qualification_37""})",frozenset({'Previous qualification_1'}),0.8087719298245614
+"frozenset({""Mother's occupation_5""})",frozenset({'Age group_18-22'}),0.8085539714867617
+"frozenset({""Mother's qualification_1""})",frozenset({'Age group_18-22'}),0.8046324269889225
+frozenset({'Course_9147'}),frozenset({'Scholarship holder_0'}),0.8028169014084507
+frozenset({'Displaced_0'}),frozenset({'Daytime/evening attendance_1'}),0.8021276595744681
+frozenset({'Debtor_1'}),frozenset({'Application order_1'}),0.8017241379310345
+frozenset({'Target_Graduate'}),frozenset({'Age group_18-22'}),0.8012542209358418
+frozenset({'Gender_1.0'}),frozenset({'Previous qualification_1'}),0.8004187020237264
+frozenset({'Course_9500'}),frozenset({'Gender_0.0'}),0.8002773925104022
+frozenset({'Age group_28-35'}),frozenset({'Displaced_0'}),0.7982779827798278
+"frozenset({""Mother's occupation_3""})",frozenset({'Age group_18-22'}),0.7981651376146789
+"frozenset({""Mother's occupation_2""})",frozenset({'Previous qualification_1'}),0.7972972972972973
+frozenset({'Tuition fees up to date_0'}),frozenset({'Marital status_1'}),0.7963709677419355
+frozenset({'Marital status_2'}),frozenset({'Tuition fees up to date_1'}),0.7960893854748603
+frozenset({'Unemployment rate bins_5-10%'}),frozenset({'Scholarship holder_0'}),0.7960812772133526
+"frozenset({""Mother's occupation_3""})",frozenset({'Scholarship holder_0'}),0.7951070336391437
+"frozenset({""Father's qualification_37""})",frozenset({'Daytime/evening attendance_1'}),0.7947368421052632
+frozenset({'Application mode_39'}),frozenset({'Displaced_0'}),0.793010752688172
+frozenset({'Age group_23-27'}),frozenset({'Daytime/evening attendance_1'}),0.7914110429447853
+frozenset({'Displaced_0'}),frozenset({'Scholarship holder_0'}),0.7872340425531915
+frozenset({'Scholarship holder_1'}),frozenset({'Gender_0.0'}),0.78702807357212
+frozenset({'Displaced_0'}),frozenset({'Marital status_1'}),0.7867021276595745
+frozenset({'Target_Dropout'}),frozenset({'Debtor_0'}),0.7857677902621722
+"frozenset({""Father's qualification_1""})",frozenset({'Age group_18-22'}),0.7830750893921334
+"frozenset({""Father's qualification_1""})",frozenset({'Scholarship holder_0'}),0.7830750893921334
+"frozenset({""Mother's occupation_4""})",frozenset({'Scholarship holder_0'}),0.7828947368421053
+"frozenset({""Mother's qualification_37""})",frozenset({'Application order_1'}),0.7827004219409283
+frozenset({'Course_9085'}),frozenset({'Application order_1'}),0.7806451612903226
+"frozenset({""Father's occupation_4""})",frozenset({'Scholarship holder_0'}),0.7790055248618785
+frozenset({'Application order_1'}),frozenset({'Scholarship holder_0'}),0.7780908770693906
+"frozenset({""Mother's qualification_37""})",frozenset({'Previous qualification_1'}),0.7774261603375527
+"frozenset({""Father's qualification_37""})",frozenset({'Marital status_1'}),0.7771929824561403
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Application order_1'}),0.7771664374140302
+"frozenset({""Mother's qualification_38""})",frozenset({'Age group_18-22'}),0.7765151515151515
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Previous qualification_1'}),0.7757909215955984
+"frozenset({""Father's occupation_5""})",frozenset({'Age group_18-22'}),0.7757201646090535
+frozenset({'Application order_1'}),frozenset({'Previous qualification_1'}),0.7749207467418106
+"frozenset({""Mother's qualification_19""})",frozenset({'Age group_18-22'}),0.7706725468577729
+frozenset({'Marital status_1'}),frozenset({'Age group_18-22'}),0.7697117998912453
+frozenset({'Application mode_39'}),frozenset({'Tuition fees up to date_1'}),0.7688172043010753
+frozenset({'Tuition fees up to date_0'}),frozenset({'Application order_1'}),0.7661290322580645
+"frozenset({""Father's occupation_8""})",frozenset({'Age group_18-22'}),0.7657342657342657
+"frozenset({""Mother's qualification_3""})",frozenset({'Age group_18-22'}),0.7654320987654321
+frozenset({'Application order_2'}),frozenset({'Displaced_1'}),0.7651663405088063
+frozenset({'Age group_28-35'}),frozenset({'Tuition fees up to date_1'}),0.7650676506765067
+frozenset({'Previous qualification_1'}),frozenset({'Age group_18-22'}),0.7650100545820167
+"frozenset({""Mother's qualification_37""})",frozenset({'Scholarship holder_0'}),0.7637130801687764
+frozenset({'Scholarship holder_1'}),frozenset({'Target_Graduate'}),0.7628267182962246
+"frozenset({""Father's occupation_3""})",frozenset({'Age group_18-22'}),0.7613636363636364
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Age group_18-22'}),0.7610284167794317
+"frozenset({""Mother's occupation_4""})",frozenset({'Age group_18-22'}),0.7605263157894737
+"frozenset({""Father's qualification_19""})",frozenset({'Age group_18-22'}),0.7603938730853391
+frozenset({'Displaced_0'}),frozenset({'Previous qualification_1'}),0.7595744680851064
+"frozenset({""Mother's qualification_37""})",frozenset({'Daytime/evening attendance_1'}),0.7573839662447257
+frozenset({'Application mode_43'}),frozenset({'Daytime/evening attendance_1'}),0.7567567567567568
+frozenset({'Target_Dropout'}),frozenset({'Previous qualification_1'}),0.7565543071161048
+frozenset({'Unemployment rate bins_15%+'}),frozenset({'Scholarship holder_0'}),0.7565337001375516
+frozenset({'Gender_1.0'}),frozenset({'Application order_1'}),0.755059316120028
+frozenset({'Educational special needs_0'}),frozenset({'Scholarship holder_0'}),0.752617482347212
+frozenset({'Course_9085'}),frozenset({'Age group_18-22'}),0.7516129032258064
+"frozenset({""Father's qualification_37""})",frozenset({'Application order_1'}),0.7508771929824561
+"frozenset({""Father's occupation_7""})",frozenset({'Age group_18-22'}),0.7507936507936508
+"frozenset({""Mother's occupation_2""})",frozenset({'Age group_18-22'}),0.75
+frozenset({'International_0'}),frozenset({'Scholarship holder_0'}),0.7493201483312731
+frozenset({'Target_Graduate'}),frozenset({'Gender_0.0'}),0.7486734201640135
+frozenset({'Nacionality_1.0'}),frozenset({'Scholarship holder_0'}),0.7482376636455186
+"frozenset({""Father's occupation_5""})",frozenset({'Scholarship holder_0'}),0.7469135802469136
+frozenset({'Gender_0.0'}),frozenset({'Age group_18-22'}),0.744220730797912
+frozenset({'Debtor_0'}),frozenset({'Scholarship holder_0'}),0.7411924119241192
+frozenset({'Target_Dropout'}),frozenset({'Application order_1'}),0.7393258426966293
+frozenset({'Course_9238'}),frozenset({'Application order_1'}),0.7380952380952381
+frozenset({'Daytime/evening attendance_1'}),frozenset({'Scholarship holder_0'}),0.7366711772665765
+frozenset({'Marital status_1'}),frozenset({'Scholarship holder_0'}),0.7362697117998912
+frozenset({'Application order_3'}),frozenset({'Gender_0.0'}),0.7326388888888888
+"frozenset({""Father's occupation_9""})","frozenset({""Mother's occupation_9""})",0.7314524555903866
+"frozenset({""Father's qualification_37""})",frozenset({'Scholarship holder_0'}),0.730701754385965
+frozenset({'Debtor_1'}),frozenset({'Previous qualification_1'}),0.7306034482758621
+frozenset({'Tuition fees up to date_1'}),frozenset({'Scholarship holder_0'}),0.7290869327501367
+frozenset({'Previous qualification_1'}),frozenset({'Scholarship holder_0'}),0.7268026429187016
+frozenset({'Target_Enrolled'}),frozenset({'Age group_18-22'}),0.7225201072386059
+"frozenset({""Mother's qualification_1""})",frozenset({'Scholarship holder_0'}),0.7220543806646526
+frozenset({'Displaced_1'}),frozenset({'Scholarship holder_0'}),0.7216358839050132
+frozenset({'Tuition fees up to date_1'}),frozenset({'Age group_18-22'}),0.7214324767632586
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Scholarship holder_0'}),0.7193753050268423
+frozenset({'Target_Enrolled'}),frozenset({'Application order_1'}),0.7184986595174263
+frozenset({'Tuition fees up to date_0'}),frozenset({'Previous qualification_1'}),0.7157258064516129
+frozenset({'Course_9147'}),frozenset({'Age group_18-22'}),0.7154929577464789
+frozenset({'Unemployment rate bins_10-15%'}),frozenset({'Age group_18-22'}),0.7144948755490483
+"frozenset({""Mother's occupation_9""})",frozenset({'Application order_1'}),0.7139019476158496
+"frozenset({""Father's qualification_19""})",frozenset({'Scholarship holder_0'}),0.7133479212253829
+frozenset({'Course_9085'}),frozenset({'Previous qualification_1'}),0.7129032258064516
+frozenset({'Application mode_1'}),frozenset({'Gender_0.0'}),0.7127659574468085
+frozenset({'Course_9500'}),frozenset({'Target_Graduate'}),0.7115117891816921
+frozenset({'Application order_2'}),frozenset({'Gender_0.0'}),0.7103718199608611
+"frozenset({""Mother's qualification_37""})",frozenset({'Marital status_1'}),0.7088607594936709
+frozenset({'Debtor_0'}),frozenset({'Age group_18-22'}),0.7084010840108401
+frozenset({'Scholarship holder_0'}),frozenset({'Application order_1'}),0.7077859660365268
+frozenset({'Application order_2'}),frozenset({'Scholarship holder_0'}),0.7064579256360078
+frozenset({'Application mode_17'}),frozenset({'Displaced_1'}),0.7053789731051344
+"frozenset({""Father's occupation_9""})",frozenset({'Application order_1'}),0.7021943573667712
+frozenset({'Displaced_1'}),frozenset({'Gender_0.0'}),0.7005277044854882
+frozenset({'Application mode_39'}),frozenset({'Age group_28-35'}),0.7002688172043011
+"frozenset({""Father's occupation_7""})",frozenset({'Gender_0.0'}),0.7
